@@ -47,18 +47,14 @@
 (defn encode
   "Encodes a word"
   [keyWord encode-text]
-  (let [encode-vec (vec encode-text)
-        loop-count (atom 0)]
-    (for [i encode-vec]
-      (do (print (get-intersec i (.length encode-vec) @loop-count keyWord))
-          (swap! loop-count inc)))))
+  (let [encode-vec (vec encode-text)]
+    (doseq [[n elem] (map-indexed #(vector %1 %2) encode-vec)]
+      (print (get-intersec elem (.length encode-vec) n keyWord)))))
+
 
 (defn decode
   "Decodes a decoded word"
   [keyWord decode-text]
-  (let [decode-vec (vec decode-text)
-        loop-count (atom 0)]
-    (for [i decode-vec]
-      (do
-        (print (get-intersec2 i (.length decode-vec) @loop-count keyWord))
-        (swap! loop-count inc)))))
+  (let [decode-vec (vec decode-text)]
+    (doseq [[n elem] (map-indexed #(vector %1 %2) decode-vec)]
+      (print (get-intersec2 elem (.length decode-vec) n keyWord)))))
