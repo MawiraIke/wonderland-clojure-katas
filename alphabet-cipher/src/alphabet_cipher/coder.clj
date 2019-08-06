@@ -1,11 +1,5 @@
 (ns alphabet-cipher.coder)
 
-(defn decode [keyword message]
-  "decodeme")
-
-(defn decipher [cipher message]
-  "decypherme")
-
 (def alphabet (seq "abcdefghijklmnopqrstuvwxyz"))
 
 ;Repeat list of alphabets as a vector
@@ -41,6 +35,15 @@
         index2 (getIndexOfChar char2 repeatedList)]
     (getValueAtIndex index2 vec1)))
 
+(defn get-intersec2
+  "Gets the letter at the intersection between a row and a column of a lookup table"
+  [char1 len index1 keyWord]
+  (let [vec1 (generateKeyword keyWord len)
+        char2 (getValueAtIndex index1 vec1)
+        vec2 (truncate-list char2)
+        index2 (getIndexOfChar char1 vec2)]
+    (getValueAtIndex index2 repeatedList)))
+
 (defn encode
   "Encodes a word"
   [keyWord encode-text]
@@ -49,3 +52,13 @@
     (for [i encode-vec]
       (do (print (get-intersec i (.length encode-vec) @loop-count keyWord))
           (swap! loop-count inc)))))
+
+(defn decode
+  "Decodes a decoded word"
+  [keyWord decode-text]
+  (let [decode-vec (vec decode-text)
+        loop-count (atom 0)]
+    (for [i decode-vec]
+      (do
+        (print (get-intersec2 i (.length decode-vec) @loop-count keyWord))
+        (swap! loop-count inc)))))
