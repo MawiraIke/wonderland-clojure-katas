@@ -7,5 +7,7 @@
                (slurp)
                (read-string)))
 
-(defn doublets [word1 word2]
+(defn doublets
+  "Functionality to change a word to another"
+  [word1 word2]
   "make me work")
