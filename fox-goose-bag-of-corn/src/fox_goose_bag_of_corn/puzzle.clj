@@ -104,60 +104,55 @@
 ;Should work fine for method one of solution
 ;This is where only one formulae is applied,
 ;It should fetch all the ways and show them and show method 1 as the fastest formulae
-(defn river-crossing-plan []
-  (loop [side-a (get @current-pos 0)                        ;Initial side
-         side-b (get @current-pos 1)                        ;Boat
-         side-c (get @current-pos 2)]                       ;End side
-    (cond
-      (final-move? current-pos)
-      (println "Game-over, you successfully moved all the items!")
+(defn river-crossing-plan [new-vector]                      ;(river-crossing-plan @current-pos)
+  (loop [iv new-vector]
+    (let [side-a (get iv 0)                                 ;Initial side
+          side-b (get iv 1)                                 ;Boat
+          side-c (get iv 2)]                                ;End side
+      (cond
+        (final-move? current-pos)
+        (println "Game-over, you successfully moved all the items!")
 
-      :else
-      (case (.length side-a)
-        0 (print "No more items to move")
-        1 (let [elem-1 (get side-a 0)]
-            (perform-move elem-1))
-        2 (let [elem-1 (get side-a 0)
-                elem-2 (get side-a 1)]
-            (if [= (check-friendliness elem-1 elem-2) :true]
-              (perform-move elem-1 elem-2)
-              ()))
-        3 (let [elem-1 (get side-a 0)
-                elem-2 (get side-a 1)
-                elem-3 (get side-a 2)]
-            (if (check-friendliness elem-1 elem-2)
-              (perform-move elem-1 elem-2)
-              (if (check-friendliness elem-1 elem-3)
-                (perform-move elem-1 elem-3)
-                (if (check-friendliness elem-2 elem-3)
-                  (perform-move elem-2 elem-3)
-                  ()))))
-        4 (let [remove-element (fn [init-vec]
-                                 ;Thanks to https://stackoverflow.com/questions/57591009/converting-a-set-to-a-vector-results-in-a-vector-of-nested-vectors-in-clojure/57591310#57591310
-                                 (mapv vec (map #(disj (set %) :you) init-vec)))
-                swap-elements (fn [vec1]
-                                (reset! current-pos vec1))]
-            (->> @current-pos
-                 ;(remove-element)
-                 (swap-elements)
-                 (let [elem-1 (get side-a 0)
-                       elem-2 (get side-a 1)
-                       elem-3 (get side-a 2)]
-                   (if (check-friendliness elem-1 elem-2)
-                     (do
-                       (perform-move elem-1 elem-2)
-                       ;(recur)
-                       )
-                     (if (check-friendliness elem-1 elem-3)
+        :else
+        (case (.length side-a)
+          0 (print "No more items to move")
+          1 (let [elem-1 (get side-a 0)]
+              (perform-move elem-1))
+          2 (let [elem-1 (get side-a 0)
+                  elem-2 (get side-a 1)]
+              (if [= (check-friendliness elem-1 elem-2) :true]
+                (recur (perform-move elem-1 elem-2))
+                (println "Unmovable items")))
+          3 (let [elem-1 (get side-a 0)
+                  elem-2 (get side-a 1)
+                  elem-3 (get side-a 2)]
+              (if (check-friendliness elem-1 elem-2)
+                (recur (perform-move elem-1 elem-2))
+                (if (check-friendliness elem-1 elem-3)
+                  (recur (perform-move elem-1 elem-3))
+                  (if (check-friendliness elem-2 elem-3)
+                    (recur (perform-move elem-2 elem-3))
+                    (println "Unmovable items")))))
+          4 (let [remove-element (fn [init-vec]
+                                   ;Thanks to https://stackoverflow.com/questions/57591009/converting-a-set-to-a-vector-results-in-a-vector-of-nested-vectors-in-clojure/57591310#57591310
+                                   (mapv vec (map #(disj (set %) :you) init-vec)))
+                  swap-elements (fn [vec1]
+                                  (reset! current-pos vec1))]
+              (->> @current-pos
+                   (remove-element)
+                   (swap-elements)
+                   (let [elem-1 (get side-a 0)
+                         elem-2 (get side-a 1)
+                         elem-3 (get side-a 2)]
+                     (if (check-friendliness elem-1 elem-2)
                        (do
-                         (perform-move elem-1 elem-3)
-                         ;(recur)
-                         )
-                       (if (check-friendliness elem-2 elem-3)
+                         (recur (perform-move elem-1 elem-2)))
+                       (if (check-friendliness elem-1 elem-3)
                          (do
-                           (perform-move elem-2 elem-3)
-                           ;(recur)
-                           ) ()))))))))))
+                           (recur (perform-move elem-1 elem-3)))
+                         (if (check-friendliness elem-2 elem-3)
+                           (do
+                             (recur (perform-move elem-2 elem-3))) ())))))))))))
 
 (defmacro do-until [& clauses]
   (when clauses

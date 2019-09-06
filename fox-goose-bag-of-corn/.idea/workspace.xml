@@ -2,66 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df77601d-d265-428b-9f8a-f2943eee5f76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../card-game-war/src/card_game_war/game2.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../card-game-war/src/card_game_war/game.clj" beforeDir="false" afterPath="$PROJECT_DIR$/../card-game-war/src/card_game_war/game.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doublets/src/doublets/solver.clj" beforeDir="false" afterPath="$PROJECT_DIR$/../doublets/src/doublets/solver.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alphabet-cipher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../alphabet-cipher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alphabet-cipher/alphabet-cipher.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../alphabet-cipher/alphabet-cipher.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../card-game-war/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../card-game-war/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../card-game-war/card-game-war.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../card-game-war/card-game-war.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doublets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../doublets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tiny-maze/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../tiny-maze/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tiny-maze/src/tiny_maze/solver.clj" beforeDir="false" afterPath="$PROJECT_DIR$/../tiny-maze/src/tiny_maze/solver.clj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/nrepl/nrepl/0.6.0/nrepl-0.6.0.jar!/nrepl/middleware/interruptible_eval.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="111" selection-start-line="111" selection-end-line="111" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/nrepl/nrepl/0.6.0/nrepl-0.6.0.jar!/nrepl/middleware/print.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.9.0/clojure-1.9.0.jar!/clojure/core.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45611">
-              <caret line="2683" column="6" selection-start-line="2683" selection-start-column="6" selection-end-line="2683" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -70,63 +26,31 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj" />
+        <option value="MawiraIke &lt;mawiraike@gmail.com&gt;" />
       </list>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1039" />
-    <option name="height" value="775" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="aeTGfBXT" />
   </component>
+  <component name="ProjectId" id="1Pt7j910GJqbPns77j4i1EL8KJP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="fox-goose-bag-of-corn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fox-goose-bag-of-corn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fox-goose-bag-of-corn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fox-goose-bag-of-corn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fox-goose-bag-of-corn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fox-goose-bag-of-corn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fox_goose_bag_of_corn" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../smart-web/easy-church-api" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="ReplState" timestamp="1566651599812">{:repl-history {:ide [], :local [{:command &quot;(vec (#(disj (set %) :her) [:me :her :him]))&quot;, :offset 44, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec (#(disj (set %) :her) [[:me :her :him] [:dog :cat]]))&quot;, :offset 58, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec (map #(disj (set %) :boat) [[:fox :goose :corn :you] [:boat] []]))&quot;, :offset 71, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(map (vec #(disj (set %) :boat)) [[:fox :goose :corn :you] [:boat] []])&quot;, :offset 71, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(map #(vec (set %)) (#{:you :fox :goose :corn} #{} #{}))&quot;, :offset 56, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(map #(vec (set %)) #{:you :fox :goose :corn} #{} #{})&quot;, :offset 54, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(map #(vec %) #{:you :fox :goose :corn} #{} #{})&quot;, :offset 48, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(map #(vec %) (#{:you :fox :goose :corn} #{} #{}))&quot;, :offset 50, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec #{:you :fox :goose :corn} #{} #{})&quot;, :offset 39, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec (#{:you :fox :goose :corn} #{} #{}))&quot;, :offset 41, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec #{:you :fox :goose :corn})&quot;, :offset 31, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(map #(disj (set %) :boat) [[:fox :goose :corn :you] [:boat] []])&quot;, :offset 65, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(doseq [i (map #(disj (set %) :boat) [[:fox :goose :corn :you] [:boat] []])] (println i))&quot;, :offset 89, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(doseq [i (map #(disj (set %) :boat) [[:fox :goose :corn :you] [:boat] []])] (println (vec i)))&quot;, :offset 95, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [init-elems (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])]\n  (doseq [i init-elems] (conj (empty []) (vec i))))&quot;, :offset 136, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(doseq [i (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])] (conj (empty []) (vec i)))&quot;, :offset 104, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(reset! current-pos [[:boat] [] [:fox :goose :corn :you]])&quot;, :offset 58, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])] (conj (empty []) (vec i)))&quot;, :offset 102, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(reset! current-pos (for [i (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])] (conj (empty []) (vec i))))&quot;, :offset 123, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(swap! (reset! current-pos (for [i (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])] (conj (empty []) (vec i)))) (fn [elem] (assoc\n                                (get @current-pos 0)\n                                2 (conj (get (get @current-pos 0) 2) elem))))&quot;, :offset 279, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(swap! (atom (reset! current-pos (for [i (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])] (conj (empty []) (vec i))))) (fn [elem] (assoc\n                                (get @current-pos 0)\n                                2 (conj (get (get @current-pos 0) 2) elem))))&quot;, :offset 286, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(current-pos)&quot;, :offset 13, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(@current-pos)&quot;, :offset 14, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(println @current-pos)&quot;, :offset 22, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(conj (get-in current-pos 0 2) :goose)&quot;, :offset 38, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get-in current-pos 0 2)&quot;, :offset 24, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get-in @current-pos 0 2)&quot;, :offset 25, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get-in @current-pos 2 1)&quot;, :offset 25, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc\n  (get @current-pos 0)\n  2 (conj (get (get @current-pos 0) 2) :goose))&quot;, :offset 77, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get (get @current-pos 0) 2)&quot;, :offset 28, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(conj (get (get @current-pos 0) 2) :goose)&quot;, :offset 42, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc (get @current-pos 0) 2 (conj (get (get @current-pos 0) 2) :goose))&quot;, :offset 73, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec (map #(disj (set %) :goose) @current-pos))&quot;, :offset 47, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec (get (map #(disj (set %) :goose) @current-pos) 0))&quot;, :offset 55, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(println (map #(disj (set %) :goose) @current-pos))&quot;, :offset 51, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(println (.getClass (map #(disj (set %) :goose) @current-pos)))&quot;, :offset 63, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc (get (for [i (map #(disj (set %) :goose) @current-pos)] (conj (empty []) (vec i))) 0) 2 (conj (get (get (for [i (map #(disj (set %) :goose) @current-pos)] (conj (empty []) (vec i))) 0) 2) :goose))&quot;, :offset 203, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(perform-move)&quot;, :offset 14, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(filterv (complement #{:goose})\n         @current-pos)&quot;, :offset 54, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i #{:you :fox :corn} #{:boat} #{}] (conj (empty []) (vec i)))&quot;, :offset 67, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (#{:you :fox :corn} #{:boat} #{})] (conj (empty []) (vec i)))&quot;, :offset 69, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(map #(disj (set %) :goose) @current-pos)&quot;, :offset 41, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(.getClass (map #(disj (set %) :goose) @current-pos))&quot;, :offset 53, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(-&gt;&gt; (map #(disj (set %) :goose) @current-pos)\n     (fn [init-elems]\n       (doseq  [[i init-elems] (conj (empty []) (vec i))])))&quot;, :offset 129, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(-&gt;&gt; (map #(disj (set %) :goose) @current-pos)\n     (fn [init-elems]\n       (for [i init-elems] (conj (empty []) (vec i)))))&quot;, :offset 124, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;fox_goose_bag_of_corn.puzzle$eval1971$fn__1972\n0xc882eae&quot;, :offset 56, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;@fox_goose_bag_of_corn.puzzle$eval1971$fn__19720xc882eae&quot;, :offset 56, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(-&gt;&gt; (map #(disj (set %) :goose) @current-pos)\n     (fn [init-elems]\n       (for [i init-elems] (conj (empty []) (vec i))))\n     (fn [new-vec]\n       (reset! current-pos new-vec)))&quot;, :offset 180, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(.getClass (-&gt;&gt; (map #(disj (set %) :goose) @current-pos)\n                (fn [init-elems]\n                  (for [i init-elems] (conj (empty []) (vec i))))\n                (fn [new-vec]\n                  (reset! current-pos new-vec))))&quot;, :offset 236, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get ([[:fox :corn]] [[:boat]] [[]]) 0)&quot;, :offset 39, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get [[:fox :corn]] [[:boat]] [[]] 0)&quot;, :offset 37, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [new-vec [[:fox :corn]] [[:boat]] [[]]]\n  (get new-vec 0))&quot;, :offset 63, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [new-vec [[:fox :corn]] [[:boat]] [[]]]\n  (get-in new-vec 0 0))&quot;, :offset 68, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (println i))&quot;, :offset 68, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (get i 0))&quot;, :offset 66, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (conj (empty []) (get (vec i) 0)))&quot;, :offset 90, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (get (vec i) 0))&quot;, :offset 72, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(.getClass (for [i (map #(disj (set %) :goose :fox) @current-pos)] (get (vec i) 0)))&quot;, :offset 84, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(.getClass (for [i (map #(disj (set %) :goose :fox) @current-pos)] (vec (get (vec i) 0))))&quot;, :offset 90, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (vec (get (vec i) 0)))&quot;, :offset 78, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(map #(disj (set %) :goose :fox) @current-pos)&quot;, :offset 46, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (println (vec i)))&quot;, :offset 74, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (println (get (vec i) 0)))&quot;, :offset 82, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (conj empty []) (get (vec i) 0))&quot;, :offset 88, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         (for [i init-elems] (conj empty-vec (vec i)))\n                         ;(for [i init-elems] (vec (get (vec i) 0)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 416, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         (println init-elems)\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         ;(for [i init-elems] (vec (get (vec i) 0)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 463, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         (for [i init-elems] (println i))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 406, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         (for [i init-elems] (conj empty-vec (vec i)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 419, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         (println (.length init-elems))\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         ;(for [i init-elems] (vec (get (vec i) 0)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 473, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         (for [i init-elems] (println (vec i)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 412, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         (for [i init-elems] (println (into [] i)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 416, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         (for [i init-elems] (conj empty-vec (vec i)))\n                         ;(for [i init-elems] (println (into [] i)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 416, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(.getClass ([[:fox :corn]] [[:boat]] [[]]))&quot;, :offset 43, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get [[[:fox :corn]] [[:boat]] [[]]] 0)&quot;, :offset 39, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get [[[:fox :corn]] [[:boat]] [[]]] 2)&quot;, :offset 39, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(empty [])&quot;, :offset 10, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(conj (empty []) [:fox :corn] [:boat] [:goose :you])&quot;, :offset 52, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (conj (empty []) (vec i)))&quot;, :offset 82, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n  (println n \&quot;-&gt;\&quot; elem))&quot;, :offset 119, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n  (conj (empty []) (vec elem)))&quot;, :offset 126, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec []]\n  (doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n    (do\n      (conj empty-vec (vec elem))\n      (print empty-vec))))&quot;, :offset 185, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec []]\n  (doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n    (do\n      (conj empty-vec elem)\n      (print empty-vec))))&quot;, :offset 179, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec []]\n  (doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n    (do\n      (conj empty-vec elem)\n      )))&quot;, :offset 4} {:command &quot;(doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n  (println elem))&quot;, :offset 112, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :you) @current-pos)] (conj (empty []) (vec i)))&quot;, :offset 82, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(mapv vec (map #(disj (set %) :goose :you) @current-pos))&quot;, :offset 57, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2)&quot;, :offset 65, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec [:goose :you])&quot;, :offset 19, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(conj \n  (get (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2) \n  (vec [:goose :you]))&quot;, :offset 98, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2 \n               (conj\n                   (get (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2)\n                   (vec [:goose :you])))&quot;, :offset 214, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2 \n               (conj\n                   (get (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2)\n                   :goose :you))&quot;, :offset 206, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(perform-move :goose)&quot;, :offset 21, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(perform-move :goose :fox)&quot;, :offset 26, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(defn perform-move\n  \&quot;This move is called to perform a move\&quot;\n  ([elem] (let [remove-element (fn [init-vec]\n                                 ;Thanks to https://stackoverflow.com/questions/57591009/converting-a-set-to-a-vector-results-in-a-vector-of-nested-vectors-in-clojure/57591310#57591310\n                                 (mapv vec (map #(disj (set %) elem :you) init-vec)))\n                do-swap (fn [new-vec]\n                          (reset! current-pos new-vec))\n                add-elem (fn [new-vec]\n                           (assoc new-vec 2 (conj (get new-vec 2) elem :you)))]\n            (-&gt;&gt; @current-pos\n                 (remove-element)\n                 (do-swap)\n                 (add-elem))))\n  ([elem-1 elem-2] (let [remove-element (fn [init-vec]\n                                          (mapv vec (map #(disj (set %) elem-1 elem-2 :you) init-vec)))\n                         do-swap (fn [new-vec]\n                                   (reset! current-pos new-vec))\n                         add-elem (fn [new-vec]\n                                    (assoc new-vec 2 (conj (get new-vec 2) elem-1 elem-2 :you)))]\n                     (-&gt;&gt; @current-pos\n                          (remove-element)\n                          (do-swap)\n                          (add-elem)))))&quot;, :offset 1288, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get @current-pos 0)&quot;, :offset 20, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(if [check-friendliness :fox :goose]\n  (:true)\n  (:false))&quot;, :offset 58, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(if [(check-friendliness :fox :goose)]\n  :true\n  :false)&quot;, :offset 56, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;@current-pos&quot;, :offset 12, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(river-crossing-plan )&quot;, :offset 22, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(check-friendliness :fox :goose)&quot;, :offset 32, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1567710555084">{:repl-history {:ide [], :local [{:command &quot;(doseq [i (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])] (conj (empty []) (vec i)))&quot;, :offset 104, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(reset! current-pos [[:boat] [] [:fox :goose :corn :you]])&quot;, :offset 58, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])] (conj (empty []) (vec i)))&quot;, :offset 102, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(reset! current-pos (for [i (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])] (conj (empty []) (vec i))))&quot;, :offset 123, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(swap! (reset! current-pos (for [i (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])] (conj (empty []) (vec i)))) (fn [elem] (assoc\n                                (get @current-pos 0)\n                                2 (conj (get (get @current-pos 0) 2) elem))))&quot;, :offset 279, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(swap! (atom (reset! current-pos (for [i (map #(disj (set %) :goose) [[:fox :goose :corn :you] [:boat] []])] (conj (empty []) (vec i))))) (fn [elem] (assoc\n                                (get @current-pos 0)\n                                2 (conj (get (get @current-pos 0) 2) elem))))&quot;, :offset 286, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(current-pos)&quot;, :offset 13, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(@current-pos)&quot;, :offset 14, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(println @current-pos)&quot;, :offset 22, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(conj (get-in current-pos 0 2) :goose)&quot;, :offset 38, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get-in current-pos 0 2)&quot;, :offset 24, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get-in @current-pos 0 2)&quot;, :offset 25, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get-in @current-pos 2 1)&quot;, :offset 25, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc\n  (get @current-pos 0)\n  2 (conj (get (get @current-pos 0) 2) :goose))&quot;, :offset 77, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get (get @current-pos 0) 2)&quot;, :offset 28, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(conj (get (get @current-pos 0) 2) :goose)&quot;, :offset 42, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc (get @current-pos 0) 2 (conj (get (get @current-pos 0) 2) :goose))&quot;, :offset 73, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec (map #(disj (set %) :goose) @current-pos))&quot;, :offset 47, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec (get (map #(disj (set %) :goose) @current-pos) 0))&quot;, :offset 55, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(println (map #(disj (set %) :goose) @current-pos))&quot;, :offset 51, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(println (.getClass (map #(disj (set %) :goose) @current-pos)))&quot;, :offset 63, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc (get (for [i (map #(disj (set %) :goose) @current-pos)] (conj (empty []) (vec i))) 0) 2 (conj (get (get (for [i (map #(disj (set %) :goose) @current-pos)] (conj (empty []) (vec i))) 0) 2) :goose))&quot;, :offset 203, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(perform-move)&quot;, :offset 14, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(filterv (complement #{:goose})\n         @current-pos)&quot;, :offset 54, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i #{:you :fox :corn} #{:boat} #{}] (conj (empty []) (vec i)))&quot;, :offset 67, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (#{:you :fox :corn} #{:boat} #{})] (conj (empty []) (vec i)))&quot;, :offset 69, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(map #(disj (set %) :goose) @current-pos)&quot;, :offset 41, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(.getClass (map #(disj (set %) :goose) @current-pos))&quot;, :offset 53, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(-&gt;&gt; (map #(disj (set %) :goose) @current-pos)\n     (fn [init-elems]\n       (doseq  [[i init-elems] (conj (empty []) (vec i))])))&quot;, :offset 129, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(-&gt;&gt; (map #(disj (set %) :goose) @current-pos)\n     (fn [init-elems]\n       (for [i init-elems] (conj (empty []) (vec i)))))&quot;, :offset 124, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;fox_goose_bag_of_corn.puzzle$eval1971$fn__1972\n0xc882eae&quot;, :offset 56, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;@fox_goose_bag_of_corn.puzzle$eval1971$fn__19720xc882eae&quot;, :offset 56, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(-&gt;&gt; (map #(disj (set %) :goose) @current-pos)\n     (fn [init-elems]\n       (for [i init-elems] (conj (empty []) (vec i))))\n     (fn [new-vec]\n       (reset! current-pos new-vec)))&quot;, :offset 180, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(.getClass (-&gt;&gt; (map #(disj (set %) :goose) @current-pos)\n                (fn [init-elems]\n                  (for [i init-elems] (conj (empty []) (vec i))))\n                (fn [new-vec]\n                  (reset! current-pos new-vec))))&quot;, :offset 236, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get ([[:fox :corn]] [[:boat]] [[]]) 0)&quot;, :offset 39, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get [[:fox :corn]] [[:boat]] [[]] 0)&quot;, :offset 37, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [new-vec [[:fox :corn]] [[:boat]] [[]]]\n  (get new-vec 0))&quot;, :offset 63, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [new-vec [[:fox :corn]] [[:boat]] [[]]]\n  (get-in new-vec 0 0))&quot;, :offset 68, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (println i))&quot;, :offset 68, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (get i 0))&quot;, :offset 66, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (conj (empty []) (get (vec i) 0)))&quot;, :offset 90, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (get (vec i) 0))&quot;, :offset 72, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(.getClass (for [i (map #(disj (set %) :goose :fox) @current-pos)] (get (vec i) 0)))&quot;, :offset 84, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(.getClass (for [i (map #(disj (set %) :goose :fox) @current-pos)] (vec (get (vec i) 0))))&quot;, :offset 90, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (vec (get (vec i) 0)))&quot;, :offset 78, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(map #(disj (set %) :goose :fox) @current-pos)&quot;, :offset 46, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (println (vec i)))&quot;, :offset 74, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (println (get (vec i) 0)))&quot;, :offset 82, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (conj empty []) (get (vec i) 0))&quot;, :offset 88, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         (for [i init-elems] (conj empty-vec (vec i)))\n                         ;(for [i init-elems] (vec (get (vec i) 0)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 416, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         (println init-elems)\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         ;(for [i init-elems] (vec (get (vec i) 0)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 463, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         (for [i init-elems] (println i))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 406, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         (for [i init-elems] (conj empty-vec (vec i)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 419, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         (println (.length init-elems))\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         ;(for [i init-elems] (vec (get (vec i) 0)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 473, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         (for [i init-elems] (println (vec i)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 412, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         ;(for [i init-elems] (conj empty-vec (vec i)))\n                         (for [i init-elems] (println (into [] i)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 416, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec (empty [])\n      remove-element (fn [init-vec]\n                       (map #(disj (set %) :goose :you) init-vec))\n      convert-elements (fn [init-elems]\n                         (for [i init-elems] (conj empty-vec (vec i)))\n                         ;(for [i init-elems] (println (into [] i)))\n                         )\n      ]\n  (-&gt;&gt; @current-pos\n       (remove-element)\n       (convert-elements)))&quot;, :offset 416, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(.getClass ([[:fox :corn]] [[:boat]] [[]]))&quot;, :offset 43, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get [[[:fox :corn]] [[:boat]] [[]]] 0)&quot;, :offset 39, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get [[[:fox :corn]] [[:boat]] [[]]] 2)&quot;, :offset 39, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(empty [])&quot;, :offset 10, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(conj (empty []) [:fox :corn] [:boat] [:goose :you])&quot;, :offset 52, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :fox) @current-pos)] (conj (empty []) (vec i)))&quot;, :offset 82, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n  (println n \&quot;-&gt;\&quot; elem))&quot;, :offset 119, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n  (conj (empty []) (vec elem)))&quot;, :offset 126, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec []]\n  (doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n    (do\n      (conj empty-vec (vec elem))\n      (print empty-vec))))&quot;, :offset 185, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec []]\n  (doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n    (do\n      (conj empty-vec elem)\n      (print empty-vec))))&quot;, :offset 179, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(let [empty-vec []]\n  (doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n    (do\n      (conj empty-vec elem)\n      )))&quot;, :offset 4} {:command &quot;(doseq [[n elem] (map-indexed #(vector %1 %2) (map #(disj (set %) :goose :fox) @current-pos))]\n  (println elem))&quot;, :offset 112, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(for [i (map #(disj (set %) :goose :you) @current-pos)] (conj (empty []) (vec i)))&quot;, :offset 82, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(mapv vec (map #(disj (set %) :goose :you) @current-pos))&quot;, :offset 57, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2)&quot;, :offset 65, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(vec [:goose :you])&quot;, :offset 19, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(conj \n  (get (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2) \n  (vec [:goose :you]))&quot;, :offset 98, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2 \n               (conj\n                   (get (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2)\n                   (vec [:goose :you])))&quot;, :offset 214, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2 \n               (conj\n                   (get (mapv vec (map #(disj (set %) :goose :you) @current-pos)) 2)\n                   :goose :you))&quot;, :offset 206, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(perform-move :goose)&quot;, :offset 21, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(perform-move :goose :fox)&quot;, :offset 26, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(defn perform-move\n  \&quot;This move is called to perform a move\&quot;\n  ([elem] (let [remove-element (fn [init-vec]\n                                 ;Thanks to https://stackoverflow.com/questions/57591009/converting-a-set-to-a-vector-results-in-a-vector-of-nested-vectors-in-clojure/57591310#57591310\n                                 (mapv vec (map #(disj (set %) elem :you) init-vec)))\n                do-swap (fn [new-vec]\n                          (reset! current-pos new-vec))\n                add-elem (fn [new-vec]\n                           (assoc new-vec 2 (conj (get new-vec 2) elem :you)))]\n            (-&gt;&gt; @current-pos\n                 (remove-element)\n                 (do-swap)\n                 (add-elem))))\n  ([elem-1 elem-2] (let [remove-element (fn [init-vec]\n                                          (mapv vec (map #(disj (set %) elem-1 elem-2 :you) init-vec)))\n                         do-swap (fn [new-vec]\n                                   (reset! current-pos new-vec))\n                         add-elem (fn [new-vec]\n                                    (assoc new-vec 2 (conj (get new-vec 2) elem-1 elem-2 :you)))]\n                     (-&gt;&gt; @current-pos\n                          (remove-element)\n                          (do-swap)\n                          (add-elem)))))&quot;, :offset 1288, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get @current-pos 0)&quot;, :offset 20, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(if [check-friendliness :fox :goose]\n  (:true)\n  (:false))&quot;, :offset 58, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(if [(check-friendliness :fox :goose)]\n  :true\n  :false)&quot;, :offset 56, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(check-friendliness :fox :goose)&quot;, :offset 32} {:command &quot;@current-pos&quot;, :offset 12, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get 0 [[:goose] [:boat] [:fox :corn :you]])&quot;, :offset 44, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(get [[:goose] [:boat] [:fox :corn :you]] 0)&quot;, :offset 44, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(conj (get [[:goose] [:boat] [:fox :corn :you]] 0) :you)&quot;, :offset 56, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc [[:goose] [:boat] [:fox :corn :you]] 2 (conj (get [[:goose] [:boat] [:fox :corn :you]] 0) :you))&quot;, :offset 103, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(assoc [[:goose] [:boat] [:fox :corn :you]] 0 (conj (get [[:goose] [:boat] [:fox :corn :you]] 0) :you))&quot;, :offset 103, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(print [[:goose] [:boat] [:fox :corn :you]])&quot;, :offset 44, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(mapv vec (map #(disj (set %) :you) nil))&quot;, :offset 41, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(println [[:goose :you] [:boat] [:fox :corn]])&quot;, :offset 46, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(loop [side-a (get @current-pos 0)]\n  (println side-a))&quot;, :offset 55, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(loop [side-a (get @current-pos 0)\n       count (atom 0)]\n  (do\n    (println side-a)\n    (print count)\n    (swap! count (fn [n]\n                   (+ n 1)))))&quot;, :offset 158, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(loop [side-a (get @current-pos 0)\n       count (atom 0)]\n  (do\n    (println side-a)\n    (print count)\n    (swap! count (fn [n]\n                   (+ n 1)))\n    (recur)))&quot;, :offset 170, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(river-crossing-plan )&quot;, :offset 22, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(perform-move :fox :corn)&quot;, :offset 25, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(perform-move2 :fox :goose @current-pos)&quot;, :offset 40, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(not true)&quot;, :offset 10, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;} {:command &quot;(river-crossing-plan2 )&quot;, :offset 23, :ns &quot;fox-goose-bag-of-corn.puzzle&quot;}], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -191,101 +115,63 @@
       <workItem from="1566466791361" duration="595000" />
       <workItem from="1566498198412" duration="1398000" />
       <workItem from="1566650530652" duration="1058000" />
+      <workItem from="1566681680809" duration="367000" />
+      <workItem from="1566767186785" duration="789000" />
+      <workItem from="1566907668826" duration="86000" />
+      <workItem from="1567012015578" duration="3491000" />
+      <workItem from="1567071222291" duration="5141000" />
+      <workItem from="1567112187658" duration="20000" />
+      <workItem from="1567145606557" duration="27000" />
+      <workItem from="1567174360821" duration="1660000" />
+      <workItem from="1567178590753" duration="1421000" />
+      <workItem from="1567188857356" duration="701000" />
+      <workItem from="1567242575135" duration="125000" />
+      <workItem from="1567246845624" duration="1747000" />
+      <workItem from="1567454536772" duration="35000" />
+      <workItem from="1567455030974" duration="676000" />
+      <workItem from="1567697819952" duration="2046000" />
+      <workItem from="1567708123365" duration="2430000" />
+      <workItem from="1567765248210" duration="934000" />
     </task>
+    <task id="LOCAL-00001" summary="Stuck">
+      <created>1567765438254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567765438254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42916000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.011713031" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.47994056" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32986626" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Flutter Inspector" order="5" />
-      <window_info anchor="right" id="Flutter Outline" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Leiningen" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="REPL" order="11" side_tool="true" visible="true" weight="0.36163983" />
-      <window_info anchor="right" id="Capture Analysis" order="12" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Stuck" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stuck" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="2" />
+          <line>169</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.9.0/clojure-1.9.0.jar!/clojure/core.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45611">
-          <caret line="2683" column="6" selection-start-line="2683" selection-start-column="6" selection-end-line="2683" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/nrepl/nrepl/0.6.0/nrepl-0.6.0.jar!/nrepl/middleware/interruptible_eval.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/nrepl/nrepl/0.6.0/nrepl-0.6.0.jar!/nrepl/middleware/print.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
