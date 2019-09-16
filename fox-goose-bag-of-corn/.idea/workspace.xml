@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="df77601d-d265-428b-9f8a-f2943eee5f76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,6 +129,9 @@
       <workItem from="1568195587145" duration="7846000" />
       <workItem from="1568224539675" duration="1308000" />
       <workItem from="1568278826890" duration="6710000" />
+      <workItem from="1568314538600" duration="73000" />
+      <workItem from="1568399588786" duration="15000" />
+      <workItem from="1568481465984" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="Stuck">
       <created>1567765438254</created>
@@ -138,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567765438254</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Solution one">
+      <created>1568314595660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568314595660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,17 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stuck" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stuck" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj</url>
-          <line>46</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Solution one" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution one" />
   </component>
 </project>
