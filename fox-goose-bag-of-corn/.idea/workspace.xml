@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df77601d-d265-428b-9f8a-f2943eee5f76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/fox_goose_bag_of_corn/puzzle.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../magic-square/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-square/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-square/src/magic_square/puzzle.clj" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-square/src/magic_square/puzzle.clj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -129,6 +128,9 @@
       <workItem from="1568399588786" duration="15000" />
       <workItem from="1568481465984" duration="632000" />
       <workItem from="1568833775116" duration="2451000" />
+      <workItem from="1568918857516" duration="659000" />
+      <workItem from="1568961922406" duration="76000" />
+      <workItem from="1568962025228" duration="461000" />
     </task>
     <task id="LOCAL-00001" summary="Stuck">
       <created>1567765438254</created>
