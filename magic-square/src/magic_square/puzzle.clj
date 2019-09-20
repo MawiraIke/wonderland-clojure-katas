@@ -61,7 +61,7 @@
                       (= d 2)
                       (conj [] (get values 0) (get values 1) (replace-func (add-logic [r d]) f))))
 
-  
+
   ([values [r d] [t g] f] (cond
                             (= t 0)
                             (conj [] (replace-func [t g] f) (get values 1) (get values 2))
