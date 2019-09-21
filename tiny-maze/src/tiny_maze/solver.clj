@@ -13,6 +13,9 @@
         index-of-E (get key-of-E 0)]
     ))
 
+(defn jumper [a b]
+  "Jumps to the next location"
+  ())
 
 
 (def maze [[:S 0 1]
