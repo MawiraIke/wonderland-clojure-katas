@@ -1,27 +1,15 @@
 (ns magic-square.puzzle)
 
-;(def values [1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 5.0])
-(def values [[1.0 1.5 2.0]
-             [2.5 3.0 3.5]
-             [4.0 4.5 5.0]])
-
 (def current-values (atom [[nil nil nil]
                            [nil nil nil]
                            [nil nil nil]]))
-
-(defn magic-square [values]
-  [[1.0 1.5 2.0]
-   [2.5 3.0 3.5]
-   [4.0 4.5 5.0]])
 
 (defn add-a [a]
   (cond
     (= 0 a)
     2
-
     (= 1 a)
     0
-
     (= 2 a)
     1))
 
@@ -29,10 +17,8 @@
   (cond
     (= 0 b)
     1
-
     (= 1 b)
     2
-
     (= 2 b)
     0))
 
@@ -40,10 +26,8 @@
   (cond
     (= 0 a)
     [1 b]
-
     (= 1 a)
     [2 b]
-
     (= 2 a)
     [0 b]))
 
@@ -94,6 +78,6 @@
       (reset! current-values (replace-func @current-values (add-logic [0 0]) 9.0))
       )))
 
-(defn magic-k [values]
-  (let [n (.length values)]
-    (* n (/ (+ (* n n) 1) 2))))
+(defn magic-square []
+  (add-loop))
+
