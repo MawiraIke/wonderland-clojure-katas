@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="df77601d-d265-428b-9f8a-f2943eee5f76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../magic-square/src/magic_square/puzzle.clj" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-square/src/magic_square/puzzle.clj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,6 +130,7 @@
       <workItem from="1568918857516" duration="659000" />
       <workItem from="1568961922406" duration="76000" />
       <workItem from="1568962025228" duration="3124000" />
+      <workItem from="1569011678461" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="Stuck">
       <created>1567765438254</created>
