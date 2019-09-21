@@ -54,7 +54,7 @@
         current-loc-2 [(add-a num-a) (add-b num-b)]]
     (if (= (get-in @current-values current-loc-2) nil)
       current-loc-2
-      (add-exception current-loc)                                                  ;Space is already filled up
+      (add-exception current-loc)                           ;Space is already filled up
       )))
 
 (defn replace-func
@@ -69,22 +69,13 @@
                (into [] (cons (get-in @current-values [k 0]) (conj [(get-in @current-values [k 1])] r)))
                ;(into [] (cons (get-in @current-values [2 0]) (get-in @current-values [2 1])))
                ))
-  ([values [r d] f] (cond
-                      (= d 0)
-                      (conj [] (get values 0) (get values 1) (replace-func (add-logic [r d]) f))
-                      (= d 1)
-                      (conj [] (get values 0) (replace-func (add-logic [r d]) f) (get values 1))
-                      (= d 2)
-                      (conj [] (get values 0) (get values 1) (replace-func (add-logic [r d]) f))))
-
-
-  ([values [r d] [t g] f] (cond
-                            (= t 0)
-                            (conj [] (replace-func [t g] f) (get values 1) (get values 2))
-                            (= t 1)
-                            (conj [] (get values 0) (replace-func [t g] f) (get values 2))
-                            (= t 2)
-                            (conj [] (get values 0) (get values 1) (replace-func [t g] f)))))
+  ([values [t g] f] (cond
+                      (= t 0)
+                      (conj [] (replace-func [t g] f) (get values 1) (get values 2))
+                      (= t 1)
+                      (conj [] (get values 0) (replace-func [t g] f) (get values 2))
+                      (= t 2)
+                      (conj [] (get values 0) (get values 1) (replace-func [t g] f)))))
 
 (defn add-loop []
   ;(replace {n (replace-func (add-logic [0 1]) 2)} orig)
@@ -93,14 +84,14 @@
       (reset!
         current-values
         (conj [] (replace-func @current-values) (get @current-values 1) (get @current-values 2)))
-      (reset! current-values (replace-func @current-values @current-loc (add-logic @current-loc) 2.0))
-      (reset! current-values (replace-func @current-values [2 2] (add-logic [2 2]) 3.0))
-      (reset! current-values (replace-func @current-values [1 0] (add-logic [1 0]) 4.0))
-      (reset! current-values (replace-func @current-values [2 0] (add-logic [2 0]) 5.0))
-      (reset! current-values (replace-func @current-values [1 1] (add-logic [1 1]) 6.0))
-      (reset! current-values (replace-func @current-values [0 2] (add-logic [0 2]) 7.0))
-      (reset! current-values (replace-func @current-values [1 2] (add-logic [1 2]) 8.0))
-      (reset! current-values (replace-func @current-values [0 0] (add-logic [0 0]) 9.0))
+      (reset! current-values (replace-func @current-values (add-logic @current-loc) 2.0))
+      (reset! current-values (replace-func @current-values (add-logic [2 2]) 3.0))
+      (reset! current-values (replace-func @current-values (add-logic [1 0]) 4.0))
+      (reset! current-values (replace-func @current-values (add-logic [2 0]) 5.0))
+      (reset! current-values (replace-func @current-values (add-logic [1 1]) 6.0))
+      (reset! current-values (replace-func @current-values (add-logic [0 2]) 7.0))
+      (reset! current-values (replace-func @current-values (add-logic [1 2]) 8.0))
+      (reset! current-values (replace-func @current-values (add-logic [0 0]) 9.0))
       )))
 
 (defn magic-k [values]
