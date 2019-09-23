@@ -7,14 +7,34 @@
            [1 0 1]
            [1 0 :E]])
 
-(defn solve-maze [maze]
-  (let [start (get-index :S maze)
-        end (get-index :E maze)
-        row-of-S (reduce #() start)
-        key-of-S (disj start -1)
-        key-of-E (disj end -1)
-        index-of-S (get key-of-S 0)
-        index-of-E (get key-of-E 0)]
+(defn append-char [[a b] char]
+  (cond
+    (= a 0)
+    (cond
+      (= b 0)
+      (conj [] (conj [] char (get-in maze [a 1]) (get-in maze [a 2])) (get maze 1) (get maze 2))
+      (= b 1)
+      (conj [] (conj [] (get-in maze [a 0]) char (get-in maze [a 2])) (get maze 1) (get maze 2))
+      (= b 2)
+      (conj [] (conj [] (get-in maze [a 0]) (get-in maze [a 1]) char) (get maze 1) (get maze 2)))
+
+    (= a 1)
+    (cond
+      (= b 0)
+      (conj [] (get maze 0) (conj [] char (get-in maze [a 1]) (get-in maze [a 2])) (get maze 2))
+      (= b 1)
+      (conj [] (get maze 0) (conj [] (get-in maze [a 0]) char (get-in maze [a 2])) (get maze 2))
+      (= b 2)
+      (conj [] (get maze 0) (conj [] (get-in maze [a 0]) (get-in maze [a 1]) char) (get maze 2)))
+
+    (= a 2)
+    (cond
+      (= b 0)
+      (conj [] (get maze 0) (get maze 1) (conj [] char (get-in maze [a 1]) (get-in maze [a 2])))
+      (= b 1)
+      (conj [] (get maze 0) (get maze 1) (conj [] (get-in maze [a 0]) char (get-in maze [a 2])))
+      (= b 2)
+      (conj [] (get maze 0) (get maze 1) (conj [] (get-in maze [a 0]) (get-in maze [a 1]) char)))
     ))
 
 (defn next-pos [current-loc]
@@ -29,7 +49,7 @@
     (println "End of the road")))
 
 
-(defn jumper [loc]
+(defn solve-maze [loc]
   "Jumps to the next location"
   (loop [current-loc loc]
     (let [new-loc (next-pos current-loc)]
