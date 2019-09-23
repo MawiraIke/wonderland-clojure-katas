@@ -17,13 +17,25 @@
         index-of-E (get key-of-E 0)]
     ))
 
-(defn jumper [[a b]]
+(defn next-pos [current-loc]
+  (cond
+    (not (= (get-in maze [(get current-loc 0) (+ (get current-loc 1) 1)]) 1))
+    [(get current-loc 0) (+ (get current-loc 1) 1)]
+
+    (not (= (get-in maze [(+ (get current-loc 0) 1) (get current-loc 1)]) 1))
+    [(+ (get current-loc 0) 1) (get current-loc 1)]
+
+    :else
+    (println "End of the road")))
+
+
+(defn jumper [loc]
   "Jumps to the next location"
-  (let [n1 (get-index :S maze)
-        n2 (get-index :E maze)
-        n4 0                                                ;Current location
-        ]
-    [n1 n2 n4]))
+  (loop [current-loc loc]
+    (let [new-loc (next-pos current-loc)]
+      (if (= :E (get-in maze new-loc))
+        (println "Maze solved")
+        (recur new-loc)))))
 
 
 
