@@ -1,8 +1,5 @@
 (ns tiny-maze.solver)
 
-(defn get-index [character tensor]
-  (map #(.indexOf % character) tensor))
-
 (def maze [[:S 0 1]
            [1 0 1]
            [1 0 :E]])
@@ -55,7 +52,9 @@
     (let [new-loc (next-pos current-loc)]
       (if (= :E (get-in maze new-loc))
         (println "Maze solved")
-        (recur new-loc)))))
+        (do
+          (println (append-char new-loc :x))
+          (recur new-loc))))))
 
 
 
