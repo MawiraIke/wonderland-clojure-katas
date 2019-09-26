@@ -16,10 +16,13 @@
 
 (defn wonderland_number?
   "Checks to see if a number is the wonderland number. "
-  [number])
+  [number]
+  (and (= 6 (count (str number)))
+       (every? #(has-same-digits? number (* % number)) (range 2 7))))
 
-
-
-(defn wonderland-number []
-  ;; calculate me
-  42)
+(defn wonderland-number
+  "Finds a wonderland number in the wonderland range"
+  []
+  (->> wonderland_range
+       (filter wonderland_number?)
+       first))
