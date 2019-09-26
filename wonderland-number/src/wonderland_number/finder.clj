@@ -15,7 +15,7 @@
   (= (digits k) (digits v)))
 
 (defn wonderland_number?
-  "Checks to see if a number is the wonderland number."
+  "Checks to see if a number is the wonderland number. "
   [number])
 
 
